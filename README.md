@@ -3,9 +3,6 @@
 <h3 align="center">👨‍💻 3rd-year CS student at the University of British Columbia 🍁 | Proficient in Java, C++, and Python 🚀 | Passionate about open source, innovation, and the endless possibilities in tech! 🔗 Let's code the future together.</h3>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhan-sam&label=Profile%20views&color=0e75b6&style=flat" alt="reyhan-sam" /> </p>
-
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 
 - 👯 I’m looking to collaborate on **innovative projects**
