@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **innovative projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Reyhan-Sam](https://github.com/Reyhan-Sam)
-
 - 💬 Ask me about **my latest project!**
 
 - 📫 How to reach me **reyhansam13@gmail.com**
@@ -25,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhan-sam&show_icons=true&locale=en&layout=compact" alt="reyhan-sam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyhan-sam&show_icons=true&locale=en" alt="reyhan-sam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-sam&" alt="reyhan-sam" /></p>
