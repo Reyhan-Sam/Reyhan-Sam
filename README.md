@@ -12,5 +12,7 @@
 <a href="https://linkedin.com/in/reyhan-reginald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyhan-reginald" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reyhan-sam&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-sam&" alt="reyhan-sam" /></p>
+
+
