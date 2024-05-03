@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Reyhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center"> Computer Science @ UBC | Passionate about Data Analysis and Software Development
+<h3 align="center"> Computer Science @ UBC | Passionate about Software Development and Data Analysis 
  
 </h3>
 
