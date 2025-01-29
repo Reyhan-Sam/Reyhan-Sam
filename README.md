@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Reyhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center"> Data Analyst Intern @BC Hydro | Computer Science @ UBC
+<h3 align="center"> Aspiring SWE | Computer Science @ UBC
  
 </h3>
 
